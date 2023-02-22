@@ -7,7 +7,11 @@ object Logger {
     }
 
     fun e(errorMessage: String) {
+feature/auth
 
         println("Log Error : $errorMessage")
+
+        println("Log Error :$errorMessage")
+main
     }
 }
